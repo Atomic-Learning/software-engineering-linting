@@ -1,22 +1,18 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Software Engineering: Linting",
+    "slug": "software-engineering-linting",
+    "description": "An introduction to the concept of linting in software engineering.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "software-engineering",
+        "programming"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
     ],
     "related": [
-        "",
-        ""
+        "programming-editors-ides"
     ]
 }
