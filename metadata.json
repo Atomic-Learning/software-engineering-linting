@@ -13,6 +13,7 @@
     "prerequisites": [
     ],
     "related": [
-        "programming-editors-ides"
+        "programming-editors-ides",
+        "code-editors-in-editor-linting"
     ]
 }
