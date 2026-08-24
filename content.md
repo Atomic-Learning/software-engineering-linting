@@ -1,0 +1,7 @@
+Linting is the process of checking code for likely mistakes and consistency and style issues before running it. It helps to spot problems early and to keep code easier to read and maintain.
+
+A linter analyses code and highlights things that may be wrong, risky, or inconsistent. For example, it might warn about an unused variable, a possible typo, or code that does not match the projects style rules.
+
+Different languages use different linters. For example, JavaScript often uses ESLint, Python can use tools like Pylint or Ruff, and Ruby often uses RuboCop.
+
+You can run linting in several places: while writing code in an editor or when contributing code to a project. Many linters can also suggest or apply simple fixes.
